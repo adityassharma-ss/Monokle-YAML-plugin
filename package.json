@@ -1,0 +1,15 @@
+{
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Aditya Sharma",
+	"repository": "https://github.com/adityassharma-ss/Monokle-YAML-plugin",
+	"monoklePlugin": {
+		"id": "com.github.adityassharma.plugin.templates",
+		"helpUrl": "https://github.com/adityassharma-ss/Monokle-YAML-plugin",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
+}
